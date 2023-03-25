@@ -16,6 +16,7 @@
  <img width="259" alt="image" src="https://user-images.githubusercontent.com/110301198/227702215-4f76ff22-2e3f-4c4c-be20-7f90839504e2.png">
  
 - [X] Ejercicio 4.
+
   <img width="358" alt="image" src="https://user-images.githubusercontent.com/110301198/227702234-83b038df-53ed-43a0-9d7f-29a00327ba7f.png">
   
 - [X] Ejercicio 5.
